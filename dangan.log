@@ -1,0 +1,23 @@
+
+2025-07-31 15:44:59,390 - UserManagementSystem - INFO - setup_logging:53 - 日志文件处理器已初始化，日志将保存到: dangan.log
+2025-07-31 15:44:59,391 - UserManagementSystem - INFO - main:318 - 用户管理系统启动。
+2025-07-31 15:45:06,721 - UserManagementSystem - INFO - add_user_info:207 - 用户注册流程开始。
+2025-07-31 15:45:10,475 - UserManagementSystem - INFO - load_json_file:135 - 尝试加载用户数据文件: data.json
+2025-07-31 15:45:10,476 - UserManagementSystem - WARNING - load_json_file:139 - 用户数据文件 'data.json' 不存在。
+2025-07-31 15:45:40,531 - UserManagementSystem - INFO - main:347 - 用户管理系统被用户中断 (Ctrl+C) 退出。
+2025-07-31 15:45:40,907 - UserManagementSystem - INFO - setup_logging:53 - 日志文件处理器已初始化，日志将保存到: dangan.log
+2025-07-31 15:45:40,908 - UserManagementSystem - INFO - main:318 - 用户管理系统启动。
+2025-07-31 15:45:46,422 - UserManagementSystem - INFO - login:272 - 用户登录流程开始。
+2025-07-31 15:45:47,599 - UserManagementSystem - INFO - load_json_file:135 - 尝试加载用户数据文件: data.json
+2025-07-31 15:45:47,599 - UserManagementSystem - DEBUG - get_file_md5:119 - 文件 'data.json' 的 MD5 哈希值计算完成: 50e314f6935a60d81ec2fdcac39ab29f
+2025-07-31 15:45:47,600 - UserManagementSystem - INFO - load_json_file:152 - 成功加载用户数据文件 'data.json'，包含 9 个用户。
+2025-07-31 15:45:47,600 - UserManagementSystem - WARNING - login:289 - 用户登录失败: 用户名 'dsfsf' 不存在。
+2025-07-31 15:45:48,938 - UserManagementSystem - INFO - load_json_file:135 - 尝试加载用户数据文件: data.json
+2025-07-31 15:45:48,938 - UserManagementSystem - DEBUG - get_file_md5:119 - 文件 'data.json' 的 MD5 哈希值计算完成: 50e314f6935a60d81ec2fdcac39ab29f
+2025-07-31 15:45:48,939 - UserManagementSystem - INFO - load_json_file:152 - 成功加载用户数据文件 'data.json'，包含 9 个用户。
+2025-07-31 15:45:48,939 - UserManagementSystem - WARNING - login:289 - 用户登录失败: 用户名 'grtg' 不存在。
+2025-07-31 15:45:49,875 - UserManagementSystem - INFO - load_json_file:135 - 尝试加载用户数据文件: data.json
+2025-07-31 15:45:49,875 - UserManagementSystem - DEBUG - get_file_md5:119 - 文件 'data.json' 的 MD5 哈希值计算完成: 50e314f6935a60d81ec2fdcac39ab29f
+2025-07-31 15:45:49,875 - UserManagementSystem - INFO - load_json_file:152 - 成功加载用户数据文件 'data.json'，包含 9 个用户。
+2025-07-31 15:45:49,876 - UserManagementSystem - WARNING - login:289 - 用户登录失败: 用户名 '3232' 不存在。
+2025-07-31 15:59:50,494 - UserManagementSystem - INFO - main:347 - 用户管理系统被用户中断 (Ctrl+C) 退出。
